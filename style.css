@@ -52,6 +52,7 @@
     border-radius: 0 4px 4px 0;
 }
 
+
 /* RIGHT ICONS */
 .nav-icons {
     display: flex;
@@ -60,7 +61,7 @@
     cursor: pointer;
 }
 
-.nav-icons div:hover {
+.nav-icons div:hover .nav-icons div:hover {
     text-decoration: underline;
 }
 
